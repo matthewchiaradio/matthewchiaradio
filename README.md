@@ -2,11 +2,9 @@
 
 ## 🚀 About Me
 
-- I am (insert name), a **(insert major)** studying at the (insert university)! 
-- I am currently a (insert job position) for the (insert company)! 
-- I have previously worked as a (insert job position) for (insert company name)!
+- I am Matthew Chiaradio, a Computer Science Major studying at the University of South Florida! 
 
-📚 Outside the tech world, (add your own content here!)
+📚 Outside the tech world, 
 
 ## 🛠️ Skills
 
@@ -16,8 +14,6 @@
 ![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![css](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=white)
-![swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📝 Networking
