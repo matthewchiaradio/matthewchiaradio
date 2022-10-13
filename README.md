@@ -17,8 +17,7 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📝 Networking
-- I am currently looking for a (insert job type)!
-- I am also looking to collaborate on (insert project type)!
+- I am currently looking for an internship!
 - Connect with me down below!
 
 ## 📈 Stats
