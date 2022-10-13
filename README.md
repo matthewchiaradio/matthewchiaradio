@@ -22,7 +22,7 @@
 - Connect with me down below!
 
 ## 📈 Stats
-[![(INSERT NAME)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=(INSERT GITHUB USERNAME))](https://github.com/INSERT GITHUB USERNAME/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=(matthewchiaradio))](https://github.com/matthewchiaradio/github-readme-stats)
 
 ## 🔗Connect with me!
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]<!---((https://github.com/GITHUB USERNAME)-->
